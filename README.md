@@ -3,7 +3,7 @@
 <img align="center" alt="Hieu Tran Trung's Github" width="1200" height="800" src="https://github.com/HieuTT-Cloud/Tran-Trung-Hieu/blob/main/Sanh_T18.jpg" />
 
 
-### Hallo, I'm Hieu Tran Trung
+### Hallo, Ich heiße Hieu Tran Trung
 <a href="https://www.linkedin.com/in/hieutt-cloud/">
   <img align="left" alt="Hieu Tran Trung 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
