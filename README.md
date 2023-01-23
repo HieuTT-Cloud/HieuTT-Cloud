@@ -26,6 +26,7 @@
 
 
 -  I'm a student at [Jetking HN](https://jetking.fpt.edu.vn/).
+-  I’m currently work at CMC Cyber Security for 3 year (2023).
 -  I’m currently learning more and more about DevOps, DevSecOps and Security.
 -  Ask me about Python, Linux, Docker, Kubernetes, AWS, something about Security or any tech-related stuff.
 -  How to reach me: [Email](ks.trunghieu.95@gmail.com) , [Telegram](https://t.me/HieuTT_Cloud) 
