@@ -30,5 +30,5 @@
 -  I’m currently learning more and more about DevOps, DevSecOps and Security.
 -  Ask me about Python, Linux, Docker, Kubernetes, AWS, something about Security or any tech-related stuff.
 -  How to reach me: [Email](ks.trunghieu.95@gmail.com) , [Telegram](https://t.me/HieuTT_Cloud) 
--  Pronouns: He/His
+-  Pronouns: He/His/Er
 -  Fun fact: Ich lese gerne Bücher über Psychologie und ich liebe Katzen und ich liebe Deutsch auch!
